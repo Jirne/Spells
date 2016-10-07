@@ -1,0 +1,4 @@
+services:
+#    spell_general.example:
+#        class: Spell\GeneralBundle\Example
+#        arguments: ["@service_id", "plain_value", %parameter%]
